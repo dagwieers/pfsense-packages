@@ -77,7 +77,7 @@
 		<name>c-icap</name>
 		<rcfile>c-icap</rcfile>
 		<executable>c-icap</executable>
-		<description>Icap inteface for squid and clamav integration</description>
+		<description>Icap interface for squid and clamav integration</description>
 	</service>
 	<tabs>
 		<tab>
